@@ -16,7 +16,7 @@ Cloud Engineer | DevOps | AWS Infrastructure Specialist
 - Infrastructure as Code (Terraform, CloudFormation)
 - CI/CD Pipelines (Jenkins, GitHub Actions, ArgoCD)
 - Containerization & Orchestration (Docker, Kubernetes, EKS)
-- Python (AWS SDK - Boto3), Bash, PowerShell
+- Python (AWS SDK - Boto3), Bash, JavaScript, PowerShell
 - Monitoring and Security (CloudWatch, WAF, CloudTrail)
 
 ---
