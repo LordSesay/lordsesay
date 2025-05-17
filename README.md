@@ -1,31 +1,41 @@
-# 👋 Hi, I'm Malcolm Sesay
+# 👋 Hi, I’m Malcolm Sesay
 
-Cloud Engineer | DevOps | AWS Infrastructure Specialist
+I'm a **Cloud & DevOps Engineer** passionate about building secure, scalable, and automated infrastructure on AWS.
 
----
-
-🚀 **About Me**
-- Passionate about solving real-world problems through cloud-native architecture, infrastructure automation, and system reliability.
-- Builder of scalable, secure solutions using AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines.
-- Focused on delivering production-grade systems that align with business goals.
-
----
-
-🛠️ **Skills**
-- AWS Services (EC2, Lambda, EKS, S3, DynamoDB, Route53)
-- Infrastructure as Code (Terraform, CloudFormation)
-- CI/CD Pipelines (Jenkins, GitHub Actions, ArgoCD)
-- Containerization & Orchestration (Docker, Kubernetes, EKS)
-- Python (AWS SDK - Boto3), Bash, JavaScript, PowerShell
-- Monitoring and Security (CloudWatch, WAF, CloudTrail)
+🚀 I build solutions that:
+- Speed up deployments through modern CI/CD pipelines
+- Replace manual processes with infrastructure-as-code
+- Secure data and apps with cloud-native tooling
+- Power real-world businesses like my brand [OnePass Apparel](https://onepassapparel.com)
 
 ---
 
-📈 **Current Projects**
-- **OnePass Apparel** — AWS serverless e-commerce platform (S3, CloudFront, Lambda, API Gateway, DynamoDB, SES)
+### 🧠 What I Know
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
 ---
 
-📬 **Let's Connect!**
-- [LinkedIn](https://www.linkedin.com/in/malcolmsesay)
+### 📂 Featured Projects
+- 🔧 [**DevOps EKS Pipeline**](https://github.com/LordSesay/DevOps-EKS-Pipeline) — Jenkins, Terraform, EKS
+- ☁️ [**Serverless E-Commerce Platform**](https://github.com/LordSesay/aws-ecommerce-infra-onepass) — Lambda, API Gateway, S3, SES, JWT, DynamoDB
+- 🔁 [**Data Backup Pipeline**](https://github.com/LordSesay/aws-data-backup-pipeline) — S3 Trigger, Lambda, DynamoDB
+- 📦 [**Serverless DevOps Pipeline**](https://github.com/LordSesay/serverless-devops-pipeline) — CI/CD with GitHub Actions + Terraform
+- 🧠 [**Portfolio Website**](https://lordsesay.github.io/portfolio/) — Projects, resume, and contact
 
+---
+
+### 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/malcolmsesay/)
+- [Portfolio](https://lordsesay.github.io/portfolio/)
+- 📫 Email: lordsesay5@gmail.com
+
+---
+
+> _“Don’t just automate deployments—automate value creation.”_
