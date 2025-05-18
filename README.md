@@ -24,6 +24,7 @@ I'm a **Cloud & DevOps Engineer** passionate about building secure, scalable, an
 
 ### 📂 Featured Projects
 - 🔧 [**DevOps EKS Pipeline**](https://github.com/LordSesay/DevOps-EKS-Pipeline) — Jenkins, Terraform, EKS
+- 🔁 [**DevOps Pipeline with Terraform & ArgoCD**](https://github.com/LordSesay/devops-pipeline-terraform-argocd) — GitHub Actions, Terraform, Helm, ArgoCD
 - ☁️ [**Serverless E-Commerce Platform**](https://github.com/LordSesay/aws-ecommerce-infra-onepass) — Lambda, API Gateway, S3, SES, JWT, DynamoDB
 - 🔁 [**Data Backup Pipeline**](https://github.com/LordSesay/aws-data-backup-pipeline) — S3 Trigger, Lambda, DynamoDB
 - 📦 [**Serverless DevOps Pipeline**](https://github.com/LordSesay/serverless-devops-pipeline) — CI/CD with GitHub Actions + Terraform
@@ -34,7 +35,7 @@ I'm a **Cloud & DevOps Engineer** passionate about building secure, scalable, an
 ### 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/malcolmsesay/)
 - [Portfolio](https://lordsesay.github.io/portfolio/)
-- 📫 Email: sesay.malcolm.dev@gmail.com
+- 📫 Email: lordsesay5@gmail.com
 
 ---
 
