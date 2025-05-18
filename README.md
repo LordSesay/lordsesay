@@ -35,7 +35,7 @@ I'm a **Cloud & DevOps Engineer** passionate about building secure, scalable, an
 ### 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/malcolmsesay/)
 - [Portfolio](https://lordsesay.github.io/portfolio/)
-- 📫 Email: lordsesay5@gmail.com
+- 📫 Email: sesay.malcolm.dev@gmail.com
 
 ---
 
