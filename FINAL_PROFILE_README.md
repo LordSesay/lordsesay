@@ -32,19 +32,6 @@ I'm a **Cloud & DevOps Engineer** passionate about building secure, scalable, an
 
 ---
 
-### 📊 GitHub Stats
-
-![Malcolm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordSesay&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordSesay&layout=compact&theme=radical)
-
----
-
-### 🖼️ Contribution Graph
-
-[![Malcolm's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LordSesay&theme=dracula)](https://github.com/LordSesay)
-
----
-
 ### 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/malcolmsesay/)
 - [Portfolio](https://lordsesay.github.io/portfolio/)
