@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Malcolm Sesay | Cloud & DevOps Engineer" width="100%">
-</p>
-
 # 👋 Hi, I’m Malcolm Sesay
 
 I’m a **Cloud & DevOps Engineer** focused on building secure, scalable, and automated infrastructure on AWS.  
