@@ -29,7 +29,7 @@ I combine **Infrastructure-as-Code (IaC)**, **modern CI/CD**, and **serverless/c
 ### 📂 Featured Projects
 
 - 🔧 [**DevOps EKS Pipeline**](https://github.com/LordSesay/DevOps-EKS-Pipeline)  
-  Automated build + deploy pipeline with Jenkins and Terraform provisioning into Amazon EKS.  
+  Automated build + deploy pipeline with GitHub Actions and Terraform provisioning into Amazon EKS.  
   *Impact:* Streamlines container delivery from code → cluster in minutes.
 
 - 🔁 [**DevOps Pipeline with Terraform & ArgoCD**](https://github.com/LordSesay/devops-pipeline-terraform-argocd)  
