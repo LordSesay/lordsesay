@@ -1,66 +1,77 @@
 # 👋 Hi, I’m Malcolm Sesay
 
 I’m a **Cloud & DevOps Engineer** focused on building secure, scalable, and automated infrastructure on AWS.  
-I combine **Infrastructure-as-Code (IaC)**, **modern CI/CD**, and **serverless/cloud-native solutions** to turn ideas into production-ready systems.
+I use **Infrastructure as Code**, **CI/CD automation**, and **cloud-native architectures** to design systems that improve reliability, reduce manual effort, and support real operational needs.
 
 ---
 
-### 🚀 What I Do
-- Accelerate delivery with automated CI/CD pipelines  
-- Replace manual processes with Infrastructure-as-Code  
-- Secure applications and data using cloud-native security practices  
-- Power real-world businesses (like my brand [OnePass Apparel](https://onepassapparel.com)) with AWS-backed scalability  
+## 🚀 What I Do
+- Build automated cloud infrastructure with **Terraform**
+- Create CI/CD pipelines that accelerate delivery and reduce deployment risk
+- Design resilient AWS systems with security, observability, and scalability in mind
+- Turn real-world business and operational problems into production-ready technical solutions
 
 ---
 
-### ⚡ Core Tech Stack
+## ⚡ Core Tech Stack
 | Cloud | IaC | CI/CD | Containers | Programming |
 |-------|-----|-------|------------|--------------|
-| AWS   | Terraform | Jenkins, GitHub Actions | Docker, Kubernetes (EKS) | Python, JavaScript |
+| AWS | Terraform | Jenkins, GitHub Actions | Docker, Kubernetes (EKS), ECS | Python, JavaScript |
 
-![AWS](https://img.shields.io/badge/AWS-Expert-orange?logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)
-![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-blue?logo=jenkins)
-![Serverless](https://img.shields.io/badge/Serverless-Lambda-yellow?logo=serverless)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?logo=github-actions)
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Featured Cloud & DevOps Projects
 
-- 🔧 [**DevOps EKS Pipeline**](https://github.com/LordSesay/DevOps-EKS-Pipeline)  
-  Automated build + deploy pipeline with GitHub Actions and Terraform provisioning into Amazon EKS.  
-  *Impact:* Streamlines container delivery from code → cluster in minutes.
+These projects represent my strongest work in automation, reliability, cloud infrastructure, and operational engineering.
 
-- 🔁 [**DevOps Pipeline with Terraform & ArgoCD**](https://github.com/LordSesay/devops-pipeline-terraform-argocd)  
-  GitOps-driven CI/CD workflow using GitHub Actions, Terraform, Helm, and ArgoCD.  
-  *Impact:* Fully automated Kubernetes deployments with rollback and drift detection.
+### 🚨 Incident Response Platform on EKS
+A cloud-native incident response platform designed to standardize alert ingestion, severity classification, and responder workflows in a Kubernetes-based environment.
 
-- ☁️ [**Serverless E-Commerce Platform**](https://github.com/LordSesay/aws-ecommerce-infra-onepass)  
-  Production-grade AWS architecture for my brand’s online store.  
-  *Impact:* Real-world e-commerce infra with API Gateway, Lambda, DynamoDB, SES, and JWT auth.
-
-- 💾 [**Data Backup Pipeline**](https://github.com/LordSesay/aws-data-backup-pipeline)  
-  Event-driven S3 backup and indexing system with Lambda + DynamoDB.  
-  *Impact:* Ensures resilient and cost-effective data recovery with lifecycle policies.
-
-- 📦 [**Serverless DevOps Pipeline**](https://github.com/LordSesay/serverless-devops-pipeline)  
-  Serverless CI/CD with GitHub Actions and Terraform.  
-  *Impact:* Automates function deployment and testing with zero servers to manage.
-
-- 🧠 [**Portfolio Website**](https://lordsesay.github.io/portfolio/)  
-  Personal portfolio featuring projects, resume, and contact info.  
-  *Impact:* Central hub for showcasing my technical work and career journey.
+**Tech Stack:** Amazon EKS, Terraform, Docker, GitHub Actions, CloudWatch, Prometheus  
+**Why it matters:** Demonstrates platform engineering, Kubernetes orchestration, observability, and CI/CD automation for operationally critical systems.  
+🔗 [View Repository](https://github.com/LordSesay/incident-response-platform-eks)
 
 ---
 
-### 🌐 Connect With Me
-- [💼 LinkedIn](https://www.linkedin.com/in/malcolmsesay/)  
-- [🌐 Portfolio](https://lordsesay.github.io/portfolio/)  
+### ⚙️ Full Stack Web Automation
+An end-to-end CI/CD system that automates the build, containerization, infrastructure provisioning, and deployment of a full-stack application on AWS.
+
+**Tech Stack:** Jenkins, Docker, Terraform, AWS ECS, GitHub  
+**Why it matters:** Shows full delivery lifecycle ownership from source code to deployed infrastructure with minimal manual intervention.  
+🔗 [View Repository](https://github.com/LordSesay/Full-Stack-Web-Automation)
+
+---
+
+### 🛡️ AWS Smart Backup & Recovery Pipeline
+An automated backup and recovery workflow built to improve data protection, reduce human error, and strengthen recovery readiness for AWS workloads.
+
+**Tech Stack:** AWS Lambda, EC2, SNS, Python, Terraform  
+**Why it matters:** Demonstrates resilience engineering, backup automation, and operational risk reduction in cloud environments.  
+🔗 [View Repository](https://github.com/LordSesay/aws-data-backup-pipeline)
+
+---
+
+## 📌 Additional Projects
+
+- [**Serverless E-Commerce Platform**](https://github.com/LordSesay/aws-ecommerce-infra-onepass) — AWS-backed e-commerce infrastructure with API Gateway, Lambda, DynamoDB, SES, and JWT authentication.
+- [**Serverless DevOps Pipeline**](https://github.com/LordSesay/serverless-devops-pipeline) — Serverless deployment workflow using GitHub Actions and Terraform.
+- [**Portfolio Website**](https://lordsesay.github.io/portfolio/) — Personal site for showcasing projects, experience, and technical direction.
+
+---
+
+## 🌐 Connect With Me
+- [💼 LinkedIn](https://www.linkedin.com/in/malcolmsesay/)
+- [🌐 Portfolio](https://lordsesay.github.io/portfolio/)
 - 📫 Email: [sesay.malcolm.dev@gmail.com](mailto:sesay.malcolm.dev@gmail.com)
 
 ---
 
-> _“Don’t just automate deployments—automate value creation.”_
+> _“Don’t just automate deployments—automate reliability, resilience, and value.”_
 
-💡 I’m open to **Cloud/DevOps Engineer roles** — let’s connect and build something impactful.
+I’m open to **Cloud Engineer, DevOps Engineer, and Infrastructure-focused roles** where I can help build secure, scalable, and automated systems.
