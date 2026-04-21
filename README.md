@@ -67,7 +67,6 @@ An automated backup and recovery workflow built to improve data protection, redu
 
 ## 🌐 Connect With Me
 - [💼 LinkedIn](https://www.linkedin.com/in/malcolmsesay/)
-- [🌐 Portfolio](https://lordsesay.github.io/portfolio/)
 - 📫 Email: [sesay.malcolm.dev@gmail.com](mailto:sesay.malcolm.dev@gmail.com)
 
 ---
