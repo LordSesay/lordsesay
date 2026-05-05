@@ -39,12 +39,22 @@ A cloud-native incident response platform designed to standardize alert ingestio
 
 ---
 
-### ⚙️ Full Stack Web Automation
-An end-to-end CI/CD system that automates the build, containerization, infrastructure provisioning, and deployment of a full-stack application on AWS.
+### 🏥 Encounter ID Platform (Full Stack + DevOps System)
 
-**Tech Stack:** Jenkins, Docker, Terraform, AWS ECS, GitHub  
-**Why it matters:** Shows full delivery lifecycle ownership from source code to deployed infrastructure with minimal manual intervention.  
-🔗 [View Repository](https://github.com/LordSesay/Full-Stack-Web-Automation)
+A healthcare encounter lifecycle platform deployed through a **fully automated CI/CD pipeline on AWS**.
+
+🔗 Repo: https://github.com/LordSesay/encounter-id-platform-devops  
+
+### ⚡ What it does
+- Generates and tracks patient encounter IDs
+- Models lifecycle:
+  `created → checked-in → in-progress → completed → discharged`
+- Provides audit visibility for operations & compliance
+
+### 🏗️ Architecture
+
+```text
+GitHub → Jenkins (EC2) → Docker → ECR → ECS → ALB
 
 ---
 
