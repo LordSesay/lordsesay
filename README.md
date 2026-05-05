@@ -52,8 +52,6 @@ A healthcare encounter lifecycle platform deployed through a **fully automated C
 - Provides audit visibility for operations & compliance
 
 ### 🏗️ Architecture
-
-```text
 GitHub → Jenkins (EC2) → Docker → ECR → ECS → ALB
 
 ---
