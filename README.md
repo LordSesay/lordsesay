@@ -30,39 +30,65 @@ I use **Infrastructure as Code**, **CI/CD automation**, and **cloud-native archi
 
 These projects represent my strongest work in automation, reliability, cloud infrastructure, and operational engineering.
 
-### 🚨 Incident Response Platform on EKS
-A cloud-native incident response platform designed to standardize alert ingestion, severity classification, and responder workflows in a Kubernetes-based environment.
-
-**Tech Stack:** Amazon EKS, Terraform, Docker, GitHub Actions, CloudWatch, Prometheus  
-**Why it matters:** Demonstrates platform engineering, Kubernetes orchestration, observability, and CI/CD automation for operationally critical systems.  
-🔗 [View Repository](https://github.com/LordSesay/incident-response-platform-eks)
-
 ---
 
 ### 🏥 Encounter ID Platform (Full Stack + DevOps System)
 
-A healthcare encounter lifecycle platform deployed through a **fully automated CI/CD pipeline on AWS**.
+A healthcare encounter lifecycle platform deployed through a fully automated CI/CD pipeline on AWS.
 
-🔗 Repo: https://github.com/LordSesay/encounter-id-platform-devops  
+**Tech Stack:** React, Node.js, Jenkins (EC2), Docker, Amazon ECR, ECS, Terraform, ALB  
+**What it does:**  
+- Generates and tracks patient encounter IDs  
+- Models lifecycle: `created → checked-in → in-progress → completed → discharged`  
+- Provides audit visibility for operations & compliance  
 
-### ⚡ What it does
-- Generates and tracks patient encounter IDs
-- Models lifecycle:
-  `created → checked-in → in-progress → completed → discharged`
-- Provides audit visibility for operations & compliance
+**Architecture:**  
+GitHub → Jenkins (EC2) → Docker → ECR → ECS → ALB  
 
-### 🏗️ Architecture
-GitHub → Jenkins (EC2) → Docker → ECR → ECS → ALB
+**Why it matters:**  
+Demonstrates real-world system design, production-grade CI/CD pipelines, and zero-downtime deployments for operationally critical healthcare workflows.  
+
+🔗 [View Repository](https://github.com/LordSesay/encounter-id-platform-devops)
+
+---
+
+### 🚨 Incident Response Platform on EKS
+
+A cloud-native incident response platform designed to standardize alert ingestion, severity classification, and responder workflows in a Kubernetes-based environment.
+
+**Tech Stack:** Amazon EKS, Terraform, Docker, GitHub Actions, CloudWatch, Prometheus  
+**What it does:**  
+- Ingests and processes incident alerts  
+- Classifies severity levels  
+- Supports structured responder workflows  
+
+**Architecture:**  
+GitHub → CI/CD → Docker → EKS → Monitoring Stack  
+
+**Why it matters:**  
+Demonstrates platform engineering, Kubernetes orchestration, observability, and CI/CD automation for operationally critical systems.  
+
+🔗 [View Repository](https://github.com/LordSesay/incident-response-platform-eks)
 
 ---
 
 ### 🛡️ AWS Smart Backup & Recovery Pipeline
+
 An automated backup and recovery workflow built to improve data protection, reduce human error, and strengthen recovery readiness for AWS workloads.
 
 **Tech Stack:** AWS Lambda, EC2, SNS, Python, Terraform  
-**Why it matters:** Demonstrates resilience engineering, backup automation, and operational risk reduction in cloud environments.  
-🔗 [View Repository](https://github.com/LordSesay/aws-data-backup-pipeline)
+**What it does:**  
+- Automates backup scheduling and execution  
+- Sends alerts for failures or anomalies  
+- Supports recovery readiness for critical workloads  
 
+**Architecture:**  
+EventBridge → Lambda → EC2 Snapshots / S3 → SNS Alerts  
+
+**Why it matters:**  
+Demonstrates resilience engineering, backup automation, and operational risk reduction in cloud environments.  
+
+🔗 [View Repository](https://github.com/LordSesay/aws-data-backup-pipeline)
 ---
 
 ## 📌 Additional Projects
