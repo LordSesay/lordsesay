@@ -36,7 +36,8 @@ These projects represent my strongest work in automation, reliability, cloud inf
 
 A healthcare encounter lifecycle platform deployed through a fully automated CI/CD pipeline on AWS.
 
-**Tech Stack:** React, Node.js, Jenkins (EC2), Docker, Amazon ECR, ECS, Terraform, ALB  
+**Tech Stack:** React, Node.js, Jenkins (EC2), Docker, Amazon ECR, ECS, Terraform, ALB 
+
 **What it does:**  
 - Generates and tracks patient encounter IDs  
 - Models lifecycle: `created → checked-in → in-progress → completed → discharged`  
@@ -57,6 +58,7 @@ Demonstrates real-world system design, production-grade CI/CD pipelines, and zer
 A cloud-native incident response platform designed to standardize alert ingestion, severity classification, and responder workflows in a Kubernetes-based environment.
 
 **Tech Stack:** Amazon EKS, Terraform, Docker, GitHub Actions, CloudWatch, Prometheus  
+
 **What it does:**  
 - Ingests and processes incident alerts  
 - Classifies severity levels  
@@ -77,6 +79,7 @@ Demonstrates platform engineering, Kubernetes orchestration, observability, and 
 An automated backup and recovery workflow built to improve data protection, reduce human error, and strengthen recovery readiness for AWS workloads.
 
 **Tech Stack:** AWS Lambda, EC2, SNS, Python, Terraform  
+
 **What it does:**  
 - Automates backup scheduling and execution  
 - Sends alerts for failures or anomalies  
