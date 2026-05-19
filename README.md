@@ -49,7 +49,7 @@ GitHub → Jenkins (EC2) → Docker → ECR → ECS → ALB
 **Why it matters:**  
 Demonstrates real-world system design, production-grade CI/CD pipelines, and zero-downtime deployments for operationally critical healthcare workflows.  
 
-🔗 [View Repository](https://github.com/LordSesay/encounter-id-platform-devops)
+🔗 [View Repository](https://github.com/LordSesay/healthcare-encounter-platform)
 
 ---
 
