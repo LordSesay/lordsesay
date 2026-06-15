@@ -34,20 +34,21 @@ These projects represent my strongest work in automation, reliability, cloud inf
 
 ### 🏥 Encounter ID Platform (Full Stack + DevOps System)
 
-A healthcare encounter lifecycle platform deployed through a fully automated CI/CD pipeline on AWS.
+A cloud-native healthcare interoperability platform designed to provide a centralized source of truth for patient encounter identity across fragmented healthcare systems.
 
-**Tech Stack:** React, Node.js, Jenkins (EC2), Docker, Amazon ECR, ECS, Terraform, ALB 
+**Tech Stack:** React, Node.js, Jenkins (EC2), Docker, Amazon ECR, Amazon ECS, Terraform, ALB
 
-**What it does:**  
-- Generates and tracks patient encounter IDs  
-- Models lifecycle: `created → checked-in → in-progress → completed → discharged`  
-- Provides audit visibility for operations & compliance  
+**What it does:**
+- Generates and resolves canonical Patient Encounter IDs
+- Provides a centralized source of truth across healthcare workflows
+- Supports encounter lifecycle tracking and audit visibility
+- Demonstrates production-style AWS infrastructure and deployment automation
 
-**Architecture:**  
-GitHub → Jenkins (EC2) → Docker → ECR → ECS → ALB  
+**Architecture:**
+GitHub → Jenkins (EC2) → Docker → ECR → ECS → ALB
 
-**Why it matters:**  
-Demonstrates real-world system design, production-grade CI/CD pipelines, and zero-downtime deployments for operationally critical healthcare workflows.  
+**Why it matters:**
+Inspired by real healthcare operational challenges, this project demonstrates how cloud-native architecture, Infrastructure as Code, containerization, and CI/CD automation can be used to improve interoperability, reliability, and operational visibility across patient encounter workflows.  
 
 🔗 [View Repository](https://github.com/LordSesay/healthcare-encounter-platform)
 
